@@ -17,6 +17,7 @@ void reverse(char* str)
     }
 }
 
+// いまさらこの引数の意味を知った
 int main(int argc, char* argv[])
 {
     reverse(argv[1]);
