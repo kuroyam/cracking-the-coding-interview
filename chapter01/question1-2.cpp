@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include <string.h>
-#include <vector>
 
 void reverse(char* str)
 {
